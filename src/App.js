@@ -14,9 +14,7 @@ function App() {
       <BrowserRouter>
         <NavigationBar/>
         <Main/>
-        <CNorris/>
-        <Projects />
-        <Crypto/>
+        
         <ContactUs />
       </BrowserRouter >
     </div>
