@@ -7,16 +7,11 @@ function NavigationBar() {
 
     return (
         <div>
-            hi
+            <img src={ChiliLogo2} alt="" />
+            <header>PrickTox</header>
         </div>
 
     );
 }
 
 export default NavigationBar;
-
-{/* <img alt="logo" src={ChiliLogo2} id="clogo"/> */}
-
-{/* <a class="nav-link" href="#Projects"><FaReact /> Projects</a>
-<a class="nav-link" href="#Crypto"><FaBitcoin /> Crypto</a>
-<a class="nav-link" href="#Contact_Us"><FaPhone /> Contact</a> */}
