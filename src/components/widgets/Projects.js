@@ -1,7 +1,6 @@
 import React from 'react';
-import { projects } from '../data';
-import constructImg from './images/underConstruct.png'
-import './Projects.css';
+import { projects } from '../../data';
+import constructImg from '../images/underConstruct.png'
 
 
 function Projects() {

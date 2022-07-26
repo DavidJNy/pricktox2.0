@@ -28,6 +28,7 @@ export default function ContactUs () {
     };
 
         return (
+            <>
             <section id="Contact_Us" class="d-flex flex-column container bg-dark text-light p-3">
                 <div>
                     <div class='container '>
@@ -68,5 +69,6 @@ export default function ContactUs () {
                     </form>
                 
             </section>
+            </>
     )
 }

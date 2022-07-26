@@ -37,5 +37,3 @@ export const projects = [
         status: "Incomplete"
     }
 ];
-
-export const skills = [ "HTML", "CSS", "Javascript", "React", "Bootstrap", "Node.js*", "MongoDB*", "Express*" ];
